@@ -1,6 +1,3 @@
-# Don't be evil
-*A short guide for opting out of surveillance capitalism*
-
 # How to quit Gmail in 5 minutes
 
 ## Step 1: Sign up for an alternative
