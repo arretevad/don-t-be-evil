@@ -5,11 +5,11 @@ There are a  lot of options out there. Here is a short run down of some of our
 favorites.
 
 | Name                                  | ☁️  On the web? | 🤳 On your phone? | 📆 Integrated calendar? | 📂 Document storage? | 🤑 Free option? |
-|---------------------------------------|----------------|----------------|-------------------------|----------------------|--------------|
-| [Fastmail](https://www.fastmail.com)  | ✅             | ✅             | ✅                      | ✅                   | 🚫           |
-| [Protonmail](https://protonmail.com)  | ✅             | ✅             | 🚫                      | 🚫                   | ✅           |
-| [Hey](https://hey.com)                | ✅             | ✅             | 🚫                      | 🚫                   | 🚫           |
-| [Tutanota](https://www.tutanota.com/) | ✅             | ✅             | ✅                      | 🚫                   | ✅           |
+|---------------------------------------|----------------|-------------------|-------------------------|----------------------|-----------------|
+| [Fastmail](https://www.fastmail.com)  | ✅             | ✅                | ✅                      | ✅                   | 🚫              |
+| [Protonmail](https://protonmail.com)  | ✅             | ✅                | 🚫                      | 🚫                   | ✅              |
+| [Hey](https://hey.com)                | ✅             | ✅                | 🚫                      | 🚫                   | 🚫              |
+| [Tutanota](https://www.tutanota.com/) | ✅             | ✅                | ✅                      | 🚫                   | ✅              |
 
 Most of the above services have their [own guides](https://hey.com/moving-from-gmail/) for helping you migrate, which
 will be more specific/suited to them. Below are some general guidelines, but
