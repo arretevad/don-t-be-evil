@@ -2,19 +2,16 @@
 
 ## Step 1: Sign up for an alternative
 There are a  lot of options out there. Here is a short run down of some of our
-favorites. You will likely have to pay, but hey.com (do you want a link here?) already explains this.
+favorites.
 
-All of these can be accessed via the web so you can visit them just like you do
-with Gmail.
+| Name                                  | ☁️  On the web? | 🤳 On your phone? | 📆 Integrated calendar? | 📂 Document storage? | 🤑 Free option? |
+|---------------------------------------|----------------|----------------|-------------------------|----------------------|--------------|
+| [Fastmail](https://www.fastmail.com)  | ✅             | ✅             | ✅                      | ✅                   | 🚫           |
+| [Protonmail](https://protonmail.com)  | ✅             | ✅             | 🚫                      | 🚫                   | ✅           |
+| [Hey](https://hey.com)                | ✅             | ✅             | 🚫                      | 🚫                   | 🚫           |
+| [Tutanota](https://www.tutanota.com/) | ✅             | ✅             | ✅                      | 🚫                   | ✅           |
 
-| Name                                  | On the web? | On your phone? | 📆 Integrated calendar? | 📂 Document storage? | Free option? |
-|---------------------------------------|-------------|----------------|-------------------------|----------------------|--------------|
-| [Fastmail](https://www.fastmail.com)  | ✅          | ✅             | ✅                      | ✅                   | 🚫           |
-| [Protonmail](https://protonmail.com)  | ✅          | ✅             | 🚫                      | 🚫                   | ✅           |
-| [Hey](https://hey.com)                | ✅          | ✅             | 🚫                      | 🚫                   | 🚫           |
-| [Tutanota](https://www.tutanota.com/) | ✅          | ✅             | ✅                      | 🚫                   | ✅           |
-
-Most of these services have their [own guides](https://hey.com/moving-from-gmail/) for helping you migrate, which
+Most of the above services have their [own guides](https://hey.com/moving-from-gmail/) for helping you migrate, which
 will be more specific/suited to them. Below are some general guidelines, but
 feel free to skip reading if you have already found what you need!
 
@@ -51,7 +48,7 @@ You can find all your gmail contacts [(here)](https://contacts.google.com/). On
 the sidebar, you'll find an "export" button. The most common/useful format will
 likely be vCard, but you can choose whatever works with your new service.
 
-Getting your existing email messages into your new account can be a little tricky. 
+Getting your existing email messages into your new account can be a little tricky.
 There is no one way to do this, but we recommend following whatever guide your new
 service provides. Of course, you can always download a copy of any (or all) your
 Google data [via takeout](https://takeout.google.com). If you go this route, we recommend using mbox
@@ -66,9 +63,25 @@ records!
 At this point, the only thing left to do is to break the habit of typing in
 Gmail.com into your browser. Of course, there is a long tail of things you can opt
 to do if you really want to. Most people will find it easier to do these over
-time, as they are convenient (is this meant to be more like "at their convenience", or actually because they are convenient things?):
+time, at their own convenience.
 
-1) (Was this meant to include a list of things to do?)
+1. Get your phone set up. Depending on which service you picked, you may need to
+   download a dedicated app or you just may need to udpate your accounts in your
+   existing mail app.
+1. Update all the rest of your online accounts to point to your new email address.
+1. Let friends and family know you have a new email (and even share this with
+   them!). Since emails are getting forwarded, we find it easiest to just
+   respond via the new address as emails are coming in. Adding a note to let
+   folks know they should update their contact info since it's not always
+   obvious that you are responding with a different address. If you plan on
+   closing out your old email entirely (the ultimate goal) you'll likely want to
+   send a note to anyone in your address book you haven't reached out to
+   already.
+1. Delete all your messages in Gmail, or even consider deleting your entire
+   Google account. At this point, you should already have migrated all your old
+   messages from Gmail into your new account. Any other data that Google has can
+   be downloaded via [takeout](http://takeout.google.com). Deleting your account
+   will prevent Google from tracking (and targeting) you going forward.
 
 
 # FAQs
@@ -86,14 +99,6 @@ important things like your bank account, credit cards, etc. but for most
 things, it's probably okay if they are using an older email. You can take your
 time and chip away at things. It's also a good opportunity to declutter your
 email and close things out that you no longer use.*
-
-**Q: Wait, Apple is big tech too, why are they on the list?**
-
-*A: Apple is a [privacy](https://support.apple.com/en-us/HT208650) focused
-company, or at least it claims to be. They aren't snooping your emails in order
-to show you ads, but I'm (you used "we" predominantly before this- did you want to stick with that?) sure they are doing it to lock you into their ecosystem
-and get you to buy Apple things. The list above is mere suggestion and we
-encourage you to do your own research and use your best judgement.*
 
 **Q: I need help!**
 
