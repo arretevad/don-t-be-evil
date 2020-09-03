@@ -71,14 +71,14 @@ time, at their own convenience.
 1. Update all the rest of your online accounts to point to your new email address.
 1. Let friends and family know you have a new email (and even share this with
    them!). Since emails are getting forwarded, we find it easiest to just
-   respond via the new address as emails are coming in. Adding a note to let
-   folks know they should update their contact info since it's not always
-   obvious that you are responding with a different address. If you plan on
-   closing out your old email entirely (the ultimate goal) you'll likely want to
-   send a note to anyone in your address book you haven't reached out to
-   already.
+   respond via the new address as emails are coming in. Since it's not always
+   obvious that you are responding with a different address, you might consider
+   adding a note to your email signature to let folks know they should update
+   their contact info.  If you plan on closing out your old email entirely (the
+   ultimate goal) you'll likely want to send a note to anyone in your address
+   book you haven't reached out to already.
 1. Delete all your messages in Gmail, or even consider deleting your entire
-   Google account. At this point, you should already have migrated all your old
+   Google account. At this point, you should have already migrated all your old
    messages from Gmail into your new account. Any other data that Google has can
    be downloaded via [takeout](http://takeout.google.com). Deleting your account
    will prevent Google from tracking (and targeting) you going forward.
